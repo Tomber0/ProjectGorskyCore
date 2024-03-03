@@ -1,0 +1,7 @@
+﻿{
+  "browser": "chrome",
+  "lang": "en-US",
+  "incognito": "--incognito",
+  "default-path": "TestFiles",
+  "disable-popup-blocking": "true"
+}
